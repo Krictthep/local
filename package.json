@@ -35,5 +35,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy" : "http://localhost:10000"
+  "proxy" : "https://server-480a.onrender.com"
 }
